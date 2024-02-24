@@ -6,6 +6,4 @@ Also, here's a YouTube link to brighten up your day: [Click here to watch](https
 
 Happy coding!
 
-![:)]("C:\Users\OMISTAJA\Downloads\Thumbs_up_icon.png")
-
 
